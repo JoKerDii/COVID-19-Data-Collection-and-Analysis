@@ -1,6 +1,6 @@
 # COVID-19 Data Collection and Analysis
 
-[Project Notebook](https://nbviewer.org/github/JoKerDii/COVID-19-Data-Collection-and-Analysis/blob/main/project_notebook.ipynb)
+[Project Notebook](https://nbviewer.org/github/JoKerDii/COVID-19-Data-Collection-and-Analysis/blob/main/analysis.ipynb)
 
 ## Data Collection
 
